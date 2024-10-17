@@ -1,0 +1,73 @@
+
+.us{
+    background-color: rgb(4, 182, 242);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+    float: right;
+    margin-left: 1000px;
+    max-width:100%;
+}
+p{
+    text-align: justify;
+}
+.con{
+    background-color: rgb(172, 221, 237);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
+.web{
+    background-color: rgb(134, 181, 196);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
+.nav{
+    background-color: rgb(54, 167, 211);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
+.whit{
+    background-color: rgb(91, 201, 238);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
+.sit{
+    background-color: rgb(0, 127, 169);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
+.ali{
+    background-color: rgb(22, 113, 192);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
+.clar{
+    background-color: rgb(91, 198, 234);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
+.sim{
+    background-color: rgba(33, 226, 236, 0.733);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
+.acur{
+    background-color: rgb(117, 144, 232);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
+.ac{
+    background-color: rgb(18, 92, 196);
+    width: 100%;
+    height: 1000px;
+    border: 1px solid black;
+}
